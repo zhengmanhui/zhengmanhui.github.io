@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**About me**
 
 I'm an Assistant Research Fellow from [**Wenzhou Medical University**](https://www.wmu.edu.cn/). **My research interest** includes **the design & application of collagen-based biomedical materials**, **multifunctional drug delivery systems**, and **biomass-based sensing materials**.
 I am very fortunate to be advised by [**Prof. Xiaokun Li**](https://yxy.wmu.edu.cn/info/1124/7828.htm).
