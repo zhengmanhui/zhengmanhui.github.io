@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 I'm an Assistant Research Fellow from [Wenzhou Medical University](https://www.wmu.edu.cn/). My research interest includes the design & application of collagen-based biomedical materials, multifunctional drug delivery systems, and biomass-based sensing materials.
+I am very fortunate to be advised by [Prof. Xiaokun Li](https://yxy.wmu.edu.cn/info/1124/7828.htm).
+You can find my CV here:
+[Email](zhengmanhui@wmu.edu.cn) / [Github](https://github.com/zhengmanhui) / [Wechat]
 
 A data-driven personal website
 ======
