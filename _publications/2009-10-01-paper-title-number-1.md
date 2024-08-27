@@ -7,6 +7,7 @@ excerpt: 'This paper discusses the development of a nature-skin-derived multi-re
 date: 2024-08-27
 venue: 'Journal of Materials Science & Technology'
 paperurl: 'https://zhengmanhui.github.io/files/nature‐skin‐e‐skin.pdf'
+
 citation: 'M Zheng, X Wang, J Zhang, O Yue, J Zhang, Z Bai, H Jiang, J Wu, L Wen, ... (2024). &quot;Nature-Skin-Derived Multi-Responsive E-Skin as On-Demand Drug-Delivery System Facilitated Melanoma Postoperative Therapy.&quot; <i>Journal of Materials Science & Technology</i>, 188, 155-168.'
 ---
 
