@@ -15,7 +15,7 @@ You can find my CV here: [**Manhui Zheng's CV**](../assets/Curriculum_Vitae.pdf)
 [**Email**](zhengmanhui@wmu.edu.cn) / [**Github**](https://github.com/zhengmanhui)
 
 **Publications**
-1.	**M. Zheng**, X. Wang*, J. Zhang, O. Yue, J. Zhang, Z. Bai, H. Jiang, J. Wu, L. Wen*, X. Liu*. Nature-skin-derived multi-responsive e-skin as on-demand drug-delivery system facilitated melanoma postoperative therapy. J. Mater. Sci. & Technol., 2024, 188: 155-168.
-2.	**M. Zheng**, X. Wang*, O. Yue, Z. Bai, B. Cui, X. Liu*. Electrochemical biomaterials for self-powered implantable “tissue batteries”: A tutorial review. Nano Res., 2022, 16(4): 5447-5463.
-3.	**M. Zheng**, X. Wang*, Y. Chen, O. Yue, Z. Bai, B. Cui, H. Jiang, X. Liu*. A review of recent progress on collagen‐based biomaterials. Adv. Healthc. Mater., 2022, 12: 2202042.
-4.	**M. Zheng**, X. Wang*, O. Yue, M. Hou, H. Zhang, S. Beyer, A. Blocki, Q. Wang, Guidong Gong, X. Liu*, J. Guo*. Skin-inspired gelatin-based flexible bio-electronic hydrogel for wound healing promotion and motion sensing. Biomaterials, 2021, 276: 121026.
+1.	[**M. Zheng**, X. Wang*, J. Zhang, O. Yue, J. Zhang, Z. Bai, H. Jiang, J. Wu, L. Wen*, X. Liu*. Nature-skin-derived multi-responsive e-skin as on-demand drug-delivery system facilitated melanoma postoperative therapy. J. Mater. Sci. & Technol., 2024, 188: 155-168.](http://zhengmanhui.github.io/files/nature‐skin‐e‐skin.pdf)
+2.	[**M. Zheng**, X. Wang*, O. Yue, Z. Bai, B. Cui, X. Liu*. Electrochemical biomaterials for self-powered implantable “tissue batteries”: A tutorial review. Nano Res., 2022, 16(4): 5447-5463.](http://zhengmanhui.github.io/files/paper-tissue-batteries.pdf)
+3.	[**M. Zheng**, X. Wang*, Y. Chen, O. Yue, Z. Bai, B. Cui, H. Jiang, X. Liu*. A review of recent progress on collagen‐based biomaterials. Adv. Healthc. Mater., 2022, 12: 2202042.](https://zhengmanhui.github.io/files/A-Review-of-Recent-Progress-on-Collagen‐Based-Biomaterials.pdf)
+4.	[**M. Zheng**, X. Wang*, O. Yue, M. Hou, H. Zhang, S. Beyer, A. Blocki, Q. Wang, Guidong Gong, X. Liu*, J. Guo*. Skin-inspired gelatin-based flexible bio-electronic hydrogel for wound healing promotion and motion sensing. Biomaterials, 2021, 276: 121026.](http://zhengmanhui.github.io/files/paper-gelatin-hydrogel.pdf)
