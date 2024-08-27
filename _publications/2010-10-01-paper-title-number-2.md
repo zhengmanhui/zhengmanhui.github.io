@@ -6,7 +6,7 @@ permalink: /publication/2024-08-27-collagen-based-biomaterials-review
 excerpt: 'This paper provides a comprehensive review of recent advancements in collagen-based biomaterials, focusing on their applications in healthcare.'
 date: 2024-08-27
 venue: 'Advanced Healthcare Materials'
-paperurl: 'http://zhengmanhui.github.io/files/A-Review-of-Recent-Progress-on-Collagen‐Based-Biomaterials.pdf'
+
 citation: 'M Zheng, X Wang, Y Chen, O Yue, Z Bai, B Cui, H Jiang, X Liu. (2024). &quot;A Review of Recent Progress on Collagen-Based Biomaterials.&quot; <i>Advanced Healthcare Materials</i>, 12(16), 2202042.'
 ---
 
