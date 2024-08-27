@@ -12,7 +12,7 @@ title                    : "Manhui Zheng / Ph.D"
 title_separator          : "-"
 name                     : &name "Manhui Zheng"
 description              : # &description "personal description"
-url                      : https://zhengmanhui.github.io
+url                      : "https://zhengmanhui.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "zhengmanhui/zhengmanhui.github.io"
 
