@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Nature-Skin-Derived Multi-Responsive E-Skin as On-Demand Drug-Delivery System Facilitated Melanoma Postoperative Therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-08-27-nature-skin-derived-e-skin-drug-delivery
+excerpt: 'This paper discusses the development of a nature-skin-derived multi-responsive e-skin that serves as an on-demand drug-delivery system for melanoma postoperative therapy.'
+date: 2024-08-27
+venue: 'Journal of Materials Science & Technology'
+paperurl: 'http://zhengmanhui.github.io/files/paper-nature-skin-e-skin.pdf'
+citation: 'M Zheng, X Wang, J Zhang, O Yue, J Zhang, Z Bai, H Jiang, J Wu, L Wen, ... (2024). &quot;Nature-Skin-Derived Multi-Responsive E-Skin as On-Demand Drug-Delivery System Facilitated Melanoma Postoperative Therapy.&quot; <i>Journal of Materials Science & Technology</i>, 188, 155-168.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+
