@@ -21,7 +21,7 @@ repository               : "zhengmanhui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ID photo.jpg"
+  avatar           : "ID photo.png"
   name             : "Manhui Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Honesty is the best policy."
