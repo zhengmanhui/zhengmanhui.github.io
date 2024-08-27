@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **About me**
 
 I'm an Assistant Research Fellow from [**Wenzhou Medical University**](https://www.wmu.edu.cn/). **My research interest** includes **the design & application of collagen-based biomedical materials**, **multifunctional drug delivery systems**, and **biomass-based sensing materials**.
